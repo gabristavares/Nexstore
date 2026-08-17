@@ -1,9 +1,13 @@
 import './App.css'
+import { Button } from './button'
 
 function App() {
 
   return (
+    <>
     <h1>Hello World!</h1>
+    <Button/>
+    </>
   )
 }
 
